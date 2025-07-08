@@ -15,6 +15,7 @@
 
 - 📄 Know more about me on [LinkedIn](https://linkedin.com/in/amirhassanadeli)
 
+- 📄 Know more about me on [Kaggle](https://www.kaggle.com/amirhassanadeli)
 ---
 
 ### 🛠️ Skills
