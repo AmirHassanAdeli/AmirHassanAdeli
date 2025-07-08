@@ -1,24 +1,21 @@
 <h1 align="center">Hi 👋, I'm Amir Hassan Adeli</h1>
-<h3 align="center">AI & Data Science Enthusiast</h3>
+<h3 align="center">AI & Data Science Enthusiast | Researcher | Python Developer</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=amirhassanadeli&label=Profile%20views&color=0e75b6&style=flat" alt="amirhassanadeli" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amirhassanadeli&label=Profile%20views&color=0e75b6&style=flat" alt="amirhassanadeli" />
 </p>
 
-- 🔭 I’m currently working on **AI & Data Projects and Research**
-
-- 🌱 I’m currently learning **Deep Learning, NLP and Big Data Analytics**
-
-- 💬 Ask me about **Python, Machine Learning, Data Visualization**
-
-- 📫 How to reach me: **amirhassanadeli.ai@gmail.com**
-
-- 📄 Know more about me on [LinkedIn](https://linkedin.com/in/amirhassanadeli)
-
-- 📄 Know more about me on [Kaggle](https://www.kaggle.com/amirhassanadeli)
 ---
 
-### 🛠️ Skills
+- 🔭 Currently working on: **AI Research Projects, Data Analysis & ML Prototypes**  
+- 🌱 Currently learning: **Deep Learning, Natural Language Processing, Big Data Analytics**  
+- 💬 Ask me about: **Python, Machine Learning, Data Visualization, Pandas**  
+- 📫 Reach me at: **amirhassanadeli.ai@gmail.com**  
+- 💼 More about me on [LinkedIn](https://linkedin.com/in/amirhassanadeli) & [Kaggle](https://www.kaggle.com/amirhassanadeli)
+
+---
+
+### 🛠️ Skills & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -35,7 +32,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amirhassanadeli&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amirhassanadeli&theme=onedark&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -43,7 +40,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirhassanadeli&show_icons=true&locale=en" alt="amirhassanadeli" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amirhassanadeli&show_icons=true&theme=radical" />
 </p>
 
 ---
@@ -56,9 +53,9 @@
 
 ---
 
-### 📫 Connect with me:
+### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/amirhassanadeli" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="amirhassanadeli" /></a>
-  <a href="mailto:amirhassanadeli.ai@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="https://linkedin.com/in/amirhassanadeli" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:amirhassanadeli.ai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
