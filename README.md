@@ -11,8 +11,7 @@
 - 🌱 Currently learning: **Deep Learning, Natural Language Processing, Big Data Analytics**  
 - 💬 Ask me about: **Python, Machine Learning, Data Visualization, Pandas**  
 - 📫 Reach me at: **amirhassanadeli.ai@gmail.com**  
-- 💼 More about me on [LinkedIn](https://linkedin.com/in/amirhassanadeli) & [Kaggle](https://www.kaggle.com/amirhassanadeli)
-
+- 💼 More about me on [LinkedIn](https://linkedin.com/in/amirhassanadeli)
 ---
 
 ### 🛠️ Skills & Tools
