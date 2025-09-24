@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amirhassan Adeli</h1>
-<h3 align="center">AI & Data Science Enthusiast | Researcher | Python Developer</h3>
+<h3 align="center">AI & Data Science Enthusiast | Machine Learning, NLP, and IoT Specialist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amirhassanadeli&label=Profile%20views&color=0e75b6&style=flat" alt="amirhassanadeli" />
@@ -7,12 +7,13 @@
 
 ---
 
-- 🔭 Currently working on: **AI Research Projects, Data Analysis & ML Prototypes**  
-- 🌱 Currently learning: **Deep Learning, Natural Language Processing, Big Data Analytics**  
-- 💬 Ask me about: **Python, Machine Learning, Data Visualization, Pandas**  
+- 🔭 Currently working on: Machine Learning models, NLP applications, and AI-driven IoT solutions.**  
+- 🌱 Currently learning: Deep Learning, Natural Language Processing, and Big Data Analytics.**  
+- 💬 Ask me about: Python, TensorFlow, Scikit-learn, Hugging Face, IoT, and Power BI.**  
 - 📫 Reach me at: **amirhassanadeli.ai@gmail.com**  
 - 💼 More about me on [LinkedIn](https://linkedin.com/in/amirhassanadeli)
-
+- ⚡ Fun fact: I love combining AI with IoT to create smart, real-world solutions!
+  
 ---
 
 ### 🛠️ Skills & Tools
