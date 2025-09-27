@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amirhassan Adeli</h1>
-<h3 align="center">AI & Data Science Enthusiast | Machine Learning, NLP, and IoT Specialist</h3>
+<h3 align="center">AI & Data Science Enthusiast | Machine Learning, NLP, and IoT Specialist, Smart Energy Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amirhassanadeli&label=Profile%20views&color=0e75b6&style=flat" alt="amirhassanadeli" />
