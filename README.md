@@ -7,12 +7,12 @@
 
 ---
 
-- 🔭 Currently working on: Machine Learning models, NLP applications, and AI-driven IoT solutions.**  
-- 🌱 Currently learning: Deep Learning, Natural Language Processing, and Big Data Analytics.**  
-- 💬 Ask me about: Python, TensorFlow, Scikit-learn, Hugging Face, IoT, and Power BI.**  
+- 🔭 Currently working on: Machine Learning models, NLP applications, AI-driven IoT solutions, and Smart Energy Systems.**  
+- 🌱 Currently learning: Deep Learning, Natural Language Processing, Big Data Analytics, and AI in Renewable Energy.**  
+- 💬 Ask me about: Python, TensorFlow, Scikit-learn, Hugging Face, IoT, Power BI, and Energy Analytics.**  
 - 📫 Reach me at: **amirhassanadeli.ai@gmail.com**  
 - 💼 More about me on [LinkedIn](https://linkedin.com/in/amirhassanadeli)
-- ⚡ Fun fact: I love combining AI with IoT to create smart, real-world solutions!
+- ⚡ Fun fact: I love combining AI, IoT, and Energy Systems to build smart, sustainable, and real-world solutions!
   
 ---
 
