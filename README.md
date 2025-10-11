@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amirhassan Adeli</h1>
-<h3 align="center">AI & Data Science Enthusiast | Machine Learning, NLP, and IoT Specialist, Smart Energy Systems</h3>
+<h3 align="center">AI & Data Science Engineer | Machine Learning, NLP, IoT, and Cloud AI</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amirhassanadeli&label=Profile%20views&color=0e75b6&style=flat" alt="amirhassanadeli" />
@@ -7,59 +7,82 @@
 
 ---
 
-- 🔭 Currently working on: Machine Learning models, NLP applications, AI-driven IoT solutions, and Smart Energy Systems.**  
-- 🌱 Currently learning: Deep Learning, Natural Language Processing, Big Data Analytics, and AI in Renewable Energy.**  
-- 💬 Ask me about: Python, TensorFlow, Scikit-learn, Hugging Face, IoT, Power BI, and Energy Analytics.**  
-- 📫 Reach me at: **amirhassanadeli.ai@gmail.com**  
-- 💼 More about me on [LinkedIn](https://linkedin.com/in/amirhassanadeli)
-- ⚡ Fun fact: I love combining AI, IoT, and Energy Systems to build smart, sustainable, and real-world solutions!
-  
+### 👨‍💻 About Me
+
+I'm an **AI & Data Science Engineer** passionate about integrating **Artificial Intelligence**, **IoT**, and **Cloud Computing** to create smart, scalable, and sustainable systems.  
+My current work focuses on applying **Machine Learning**, **LLMs**, and **Edge AI** to build intelligent infrastructures and data-driven solutions.
+
+- 🔭 **Working on:** AI-driven IoT systems, LangChain-based chatbots, and Cloud-integrated ML applications.  
+- 🌱 **Learning:** Generative AI, LLM fine-tuning, RAG systems, and Federated Learning.  
+- 💬 **Ask me about:** Machine Learning, NLP, Hugging Face, LangChain, MLOps, Cloud AI, and Smart Energy Analytics.  
+- 📫 **Contact:** [amirhassanadeli.ai@gmail.com](mailto:amirhassanadeli.ai@gmail.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/amirhassanadeli](https://linkedin.com/in/amirhassanadeli)
+
 ---
 
-### 🛠️ Skills & Tools
+### ⚙️ Core Skills
+
+**Artificial Intelligence:**  
+Machine Learning, Deep Learning, NLP, Generative AI, LLMs (GPT, BERT), RAG Systems  
+
+**Frameworks & Libraries:**  
+TensorFlow, PyTorch, Scikit-learn, Hugging Face Transformers, LangChain  
+
+**MLOps & Cloud:**  
+FastAPI, MLflow, Docker, Google Cloud AI, AWS Sagemaker, Azure ML  
+
+**IoT & Edge AI:**  
+Data acquisition, TinyML, Edge Deployment, Smart Energy Systems  
+
+**Data Science & Analytics:**  
+Python, Pandas, NumPy, Power BI, Big Data, SQL  
+
+---
+
+### 🚀 Featured Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FED141?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-00C853?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-02569B?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IoT-00BFFF?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🧩 Selected Projects
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amirhassanadeli&theme=onedark&margin-w=15&margin-h=15" />
-</p>
+- 🧠 **AI Chatbot with LangChain & Hugging Face:**  
+  Built a domain-specific chatbot using a custom RAG pipeline and transformer-based models for contextual Q&A.  
 
----
+- ⚡ **IoT Energy Optimization System:**  
+  Designed a predictive AI model leveraging IoT sensor data to optimize power usage in smart energy grids.  
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirhassanadeli&show_icons=true&theme=radical" />
-</p>
+- ☁️ **Cloud-based ML Deployment:**  
+  Developed and deployed scalable ML pipelines using FastAPI, Docker, and Google Cloud AI services.  
 
 ---
 
-### 🔥 GitHub Streak
+### 🧠 Focus Areas
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=amirhassanadeli&theme=dark&hide_border=false" />
-</p>
+Creating intelligent and efficient **AI-driven ecosystems** by combining:  
+- **LLMs + LangChain** for contextual automation  
+- **IoT + Edge AI** for real-time analytics  
+- **Cloud AI** for scalable model deployment and monitoring  
 
 ---
 
 ### 📫 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/amirhassanadeli" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:amirhassanadeli.ai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:amirhassanadeli.ai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
